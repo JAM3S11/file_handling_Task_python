@@ -1,0 +1,7 @@
+
+           Hello PLP May 2024 Cohort
+           Specialization in Python
+           This is a file based on file handling in Python.
+           It entails File Creation,
+           Reading and Appending
+           Accompanied with error handling.
